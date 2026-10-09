@@ -1,1 +1,1 @@
-print("NAUKA GIT")
+print("NAUKA GITa")
