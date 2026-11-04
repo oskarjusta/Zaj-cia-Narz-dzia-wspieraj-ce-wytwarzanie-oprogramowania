@@ -2,7 +2,8 @@
 .venv/
 
 # Pliki tymczasowe pythona
-
+__pycache__
+git
 # Pliki narzędzi wspierająścych
 
 # Pliki narzedzi testujących
@@ -20,4 +21,4 @@ Thumds.db
 .DS_Store
 
 # Inne pliki i foldery
-zadania.tet
+zadania.txt
