@@ -1,0 +1,23 @@
+# Srodowisko wirtualne
+.venv/
+
+# Pliki tymczasowe pythona
+
+# Pliki narzędzi wspierająścych
+
+# Pliki narzedzi testujących
+
+# Lokalne bazy danych
+
+# Logi aplikacji
+
+# Pliki systemowe
+
+# System windows
+Thumds.db
+
+# System mac OS
+.DS_Store
+
+# Inne pliki i foldery
+zadania.tet
