@@ -1,7 +1,7 @@
 # Zasady współpracy
 Aby współpraca przebiegała płynnie prosimy o stosowanie się do poniższych zasad.
 
-##Przygotowanie projektu
+## Przygotowanie projektu
 1. **Sforkuj (Fork) repozytorium** na swoje konto GitHub.
 2. **Sklonuj** swój fork lokalnie na komputer:
   ```bash
@@ -19,7 +19,7 @@ python -n venv .venv
 .venv\Scripts\Active.psl
 ```
 
-##Praca z gałęziami
+## Praca z gałęziami
 -**Nigdy nie wprowadzaj** zmian bezpośrednio do gałęzi main
 -Twórz osobne gałęzi dla każdego zadania, błędu lub funkcji, stosując czytelny prefiks:
 -feature/nazwa-funkcji – dla nowych funkcjonalności
@@ -27,7 +27,7 @@ python -n venv .venv
 -docs/opis-zmian – dla aktualizacji dokumentacji
 -Przed rozpoczęciem pracy na nowej gałęzi upewnij się, że Twój lokalny main jest zaktualizowany:
 
-##Zasady pisania kodu
+## Zasady pisania kodu
 -Trzymaj się przyjętych w projekcie konwencji
 -Pisz kod czytelny modularny i zrozumiały
 -Dodawaj komentarze tam gdzie wymagane są wyjaśnienia
@@ -35,7 +35,7 @@ python -n venv .venv
 -Nie pisz kodu na zapas (Zasada YAGNI)
 -Jeśli dodajesz nową funkcję lub naprawiasz błąd, postaraj się dopisać odpowiednie testy jednostkowe lub upewnij się, że istniejące testy przechodzą pomyślnie.
 
-##Commity
+## Commity
 Każdy commit powinien zawierać krótki i zrozumiały opus zmian w trybie rozkazującym np:
 +feat: – dodanie nowej funkcjonalności
 +fix: – naprawa błędu
@@ -44,16 +44,17 @@ Każdy commit powinien zawierać krótki i zrozumiały opus zmian w trybie rozka
 +refactor: – przebudowa kodu bez zmieniania jego działania
 +test: – dodanie lub poprawienie testów
 
-##Zgłoszenia (issuses)
+## Zgłoszenia (issuses)
+1. Przeszukaj istniejące zgłoszenia i sprawdź czy twojego problemu już tam nie ma
+2. Wybierz odpowiedni szablon i zgłoś
+
+## Pull requests
 
 
-##Pull requests
-
-
-##Komunikacja w zespole
+## Komunikacja w zespole
 -Kultura wypowiedzi: Szanujemy się nawzajem. W dyskusjach w komentarzach pod kodem lub zgłoszeniami zachowujemy profesjonalizm i życzliwość.
 -Gdzie rozmawiamy: Głównym miejscem komunikacji zespołu jest [np. nasz kanał na Discordzie / Slack / sekcja Discussions na GitHubie].
 -Blokady (Blockers): JeśliUtkniesz nad jakimś problemem na dłużej, nie bój się pytać o pomoc – od tego jest zespół!
 -Korzystaj z Issue i Pull Request do dyskusji dotyczących projektu
 
-#Dziękujemy za współprace i wkład w rozwój projektu
+# Dziękujemy za współprace i wkład w rozwój projektu
