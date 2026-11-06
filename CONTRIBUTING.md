@@ -17,7 +17,7 @@ python -n venv .venv
 4. Aktywuj środowisko i zainstaluj zależności
 ```bash
 .venv\Scripts\Active.psl
-
+```
 
 ##Praca z gałęziami
 -**Nigdy nie wprowadzaj** zmian bezpośrednio do gałęzi main
