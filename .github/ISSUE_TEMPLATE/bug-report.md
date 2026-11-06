@@ -1,7 +1,7 @@
 ---
 name: Zgłoszenie błędu
 about: Zgłoś błąd w projekcie
-title:"[BUG] krótki opis do uzupełnienia"
+title: "[BUG] krótki opis do uzupełnienia"
 labels: bug
 assignees: ""
 ---
